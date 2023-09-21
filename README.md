@@ -1,4 +1,4 @@
-###    Airbnb listing data as a data analyst     ###
+###    Airbnb listing data as a data analyst     
 
 # 1. Understanding the Dataset
 
